@@ -55,6 +55,7 @@ function sortearAmigo() {
   resultado.innerHTML = `🎉 El amigo secreto es:<strong>${amigos[indiceAleatorio]}</strong>🎉`;
 
   // Bloquear más ingresos después del sorteo
-  document.getElementById(amigo).disabled = true;
-  document.querySelector("button[onclick='agregarAmigo()']").disabled = true;
+  document.getElementById("amigo").disabled = true;
+  document.querySelector(".button-add").disabled = true;
+  document.querySelector(".button-draw").disabled = true;
 }
