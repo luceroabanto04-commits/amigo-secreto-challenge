@@ -27,11 +27,11 @@ Es ideal para juegos y dinámicas de grupos, y fue desarrollado como proyecto de
 - **Bloqueo después del sorteo:** Evita agregar más nombres o sortear de nuevo hasta recargar la página.
 ---
 ## Pasos a seguir:
-
+1. Escribimos el nombre nuestros amigos:
 <img width="1336" height="671" alt="image" src="https://github.com/user-attachments/assets/7ce1b8b3-827b-47f1-8efd-a9840fd17f4b" />
-
+2. Damos click en añadir y continuamos añadiendo el nombre de mas amigos:
 <img width="1427" height="724" alt="image" src="https://github.com/user-attachments/assets/f401837f-4c45-4323-9b50-d69ec3a67578" />
-
+3. Damos click en sortear,y ¡voilà!
 <img width="1535" height="820" alt="image" src="https://github.com/user-attachments/assets/91809f72-7fce-4eb9-a497-b3a57d81cfaf" />
 
 ---
