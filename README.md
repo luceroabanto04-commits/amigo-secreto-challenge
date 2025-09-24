@@ -36,6 +36,8 @@ Es ideal para juegos y dinámicas de grupos, y fue desarrollado como proyecto de
 
 ---
 
-Autor
+## Autor
+
 Lucero Abanto
+
 Proyecto desarrollado como práctica de JavaScript para dinámicas interactivas.
